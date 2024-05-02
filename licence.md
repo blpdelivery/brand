@@ -17,12 +17,12 @@ Terragramme and the Terragramme logo **were** trademarked (™). As BLP's Terrag
 
 ## Coat of Arms
 
-The coat of arms of BLP and it's blazon is © Miro Jones.
+The coat of arms of BLP and it's blazon is © Miro Jones. It may not be used without permission.
 
 
 ## Great Seal
 
-The great seal of BLP and it's blazon is © Miro Jones.
+The great seal of BLP and it's blazon is © Miro Jones. It may not be used without permission.
 
 
 ## Flags
