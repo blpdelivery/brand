@@ -25,3 +25,8 @@ The coat of arms of BLP and it's blazon is © Miro Jones.
 The great seal of BLP is © Miro Jones.
 
 
+## Flags
+
+The flags of BLP are trademarked (™). Use is permitted under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+[![CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CC_BY-SA_icon.svg/88px-CC_BY-SA_icon.svg.png)](https://creativecommons.org/licenses/by-sa/4.0/)
