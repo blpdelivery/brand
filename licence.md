@@ -1,3 +1,6 @@
+*In this document, 'BLP' means 'Bermagui Local Post'.*
+
+
 ## Logo and badge
 
 The logo and badge are trademarked (™). Use is permitted under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
@@ -10,5 +13,15 @@ The logo and badge are trademarked (™). Use is permitted under [CC BY-NC-ND 4.
 Terragramme and the Terragramme logo **were** trademarked (™). As BLP's Terragramme project is now discontinued ([Learn more](https://www.bermaguilocalpost.org/terragramme)), Terragramme and the Terragramme logo are now available to use under the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) public domain license.
 
 [![CC0 1.0](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CC0_button.svg/88px-CC0_button.svg.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+## Coat of Arms
+
+The coat of arms of BLP and it's blazon is © Miro Jones.
+
+
+## Great Seal
+
+The great seal of BLP is © Miro Jones.
 
 
