@@ -22,7 +22,7 @@ The coat of arms of BLP and it's blazon is © Miro Jones.
 
 ## Great Seal
 
-The great seal of BLP is © Miro Jones.
+The great seal of BLP and it's blazon is © Miro Jones.
 
 
 ## Flags
