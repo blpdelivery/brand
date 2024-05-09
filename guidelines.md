@@ -18,4 +18,4 @@ Do not:
 
 |  |  |
 | --- | --- |
-| (stroke)[https://github.com/blpdelivery/brand/blob/main/logo/don't/add-a-stroke.png] | Use a stroke |
+| ![stroke](https://github.com/blpdelivery/brand/blob/main/logo/don't/add-a-stroke.png) | Use a stroke |
