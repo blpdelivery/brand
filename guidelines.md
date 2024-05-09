@@ -18,4 +18,5 @@ Do not:
 
 |  |  |
 | --- | --- |
-| <img src="drawing.jpg" alt="drawing" width="200"/> | Use a stroke |
+| <img src="https://github.com/blpdelivery/brand/blob/main/logo/don't/add-a-stroke.png" alt="stroke" width="75"/> | Use a stroke |
+| <img scr="https://github.com/blpdelivery/brand/blob/main/logo/don't/add-shadow.png" alt="shadow" width="75"/> | Add a shadow |
