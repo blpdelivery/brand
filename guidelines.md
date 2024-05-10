@@ -14,9 +14,14 @@
 
 ### Logo
 
-Do not:
+The **logo of BLP** is two envelopes representing the two sides of the Bermagui River.
 
-|  |  |
-| --- | --- |
-| <img src="https://github.com/blpdelivery/brand/blob/main/logo/don't/add-a-stroke.png" alt="stroke" width="75"/> | Use a stroke |
-| <img scr="https://github.com/blpdelivery/brand/blob/main/logo/don't/add-shadow.png" alt="shadow" width="75"/> | Add a shadow |
+
+#### Don't
+
+![](https://github.com/blpdelivery/brand/blob/main/logo/dont.png)
+
+
+### Flag
+
+The **flag of BLP** is a *banner of arms* (flag with the same design as the escutcheon on the coat of arms). Learn about the design under coat of arms.
