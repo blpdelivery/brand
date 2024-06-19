@@ -2,4 +2,4 @@
 - [Logo](#)
 - [Coat of Arms](#)
 - [Motto](#)
-- [Terragramme<sup>TM</sup>](#)
+- [Terragramme&trade;](#)
