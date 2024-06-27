@@ -28,4 +28,4 @@ The flags of BLP are &trade; Miro Jones. Use is permitted under [CC BY-SA 4.0](h
 
 ## Motto
 
-BLP's motto, *Haste, Post, Haste*, is &trade; Miro Jones.
+BLP's motto, '*Haste, Post, Haste*', is &trade; Miro Jones.
