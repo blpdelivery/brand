@@ -36,6 +36,7 @@ The flag of BLP must not be flown or displayed alongside any of the following fl
 - flags of the United Kingdom of Great Britain and Northern Ireland (Union Jack)
   - all flags featuring the Union Jack
 - flags of the ~~United States of America~~
+- flags of other colonial states and territories
 
 
 [^1]: Learn more about BLP's use of strikethroughs [here](https://www.bermaguilocalpost.org/about/style-guide).
