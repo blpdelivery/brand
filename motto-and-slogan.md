@@ -11,6 +11,6 @@ Don't:
 BLP's slogan is 'Bermagui's local mail delivery service'.
 
 ### Guidelines
-Don't
+Don't:
 
 - Change the slogan (~~Bermi's own postal delivery service~~)
