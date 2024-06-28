@@ -13,7 +13,7 @@
       #navbar {
   background-color: #fff; /* Black background color */
   position: fixed; /* Make it stick/fixed */
-  top: -50px; /* Hide the navbar 50 px outside of the top view */
+  top: 0px; /* Hide the navbar 50 px outside of the top view */
   width: 100%; /* Full width */
   transition: top 0.3s; /* Transition effect when sliding down (and up) */
 }
@@ -46,19 +46,6 @@ main {
         <a href="#news">News</a>
         <a href="#contact">Contact</a>
       </div>
-      <script>
-        // When the user scrolls down 20px from the top of the document, slide down the navbar
-// When the user scrolls to the top of the page, slide up the navbar (50px out of the top view)
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("navbar").style.top = "0";
-  } else {
-    document.getElementById("navbar").style.top = "-50px";
-  }
-}
-      </script>
     </nav>
     <div class="main">
     <div class="container-lg px-3 my-5 markdown-body">
