@@ -18,3 +18,9 @@ rect(rectXY, rectXY, 50, 40)
   </body>
 </html>
 ```
+
+```css
+body {
+  color: red;
+}
+```
