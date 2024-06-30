@@ -3,6 +3,8 @@ The logo of Bermagui Local Post (BLP) is made up of four tesselating shapes (two
 
 The envelopes not only symbolise the core of BLP's services &ndash; delivery &ndash; but also represents the two sides of the Bermagui River.
 
+![Logo of BLP](https://blpdelivery.github.io/brand/logo/logo.svg)
+
 ### Guidelines
 #### Misuse of the logo
 Don't:
