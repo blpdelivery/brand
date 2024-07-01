@@ -12,3 +12,7 @@ Bermagui Local Post (BLP) uses Quicksand for body text.
 ![Russisch Sans example](https://blpdelivery.github.io/brand/fonts/russisch-sans.svg)
 
 BLP uses Russisch Sans for our wordmark.
+
+- Designer: [Michael Sharanda](https://www.gent.media/)
+- Link:
+- License:
