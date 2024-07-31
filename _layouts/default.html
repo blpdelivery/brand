@@ -51,10 +51,13 @@
     <script>
       function closeNav() {
         document.getElementById("navbar").style.width = 0px;
+        document.getElementById("main").style.width = 100%;
       }
 
       function openNav() {
-        document.getElementById("navbar").style.width = 500px;
+        var navsize = 500px;
+        document.getElementById("navbar").style.width = navsize;
+        document.getElementById("main").style.width = calc(100% - navsize);
       }
     </script>
   </body>
