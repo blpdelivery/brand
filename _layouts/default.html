@@ -12,20 +12,22 @@
     <style>
       #navbar {
         height: 100%;
-        width: 200px;
+        width: 500px;
         position: fixed;
         left: 0;
         top: 0;
+        background-color: #eee;
+        color: #000;
       }
     </style>
   </head>
   <body>
     <header>
-      <h1><button onclick="openNav()"></button><a class="title" href="{{ "/" | absolute_url }}">BLP Brand</a></h1>
+      <h1><button onclick="openNav()">Open menu</button><a class="title" href="{{ "/" | absolute_url }}">BLP Brand</a></h1>
     </header>
     <nav>
       <div id="navbar">
-        <button onclick="closeNav()"></button>
+        <button onclick="closeNav()">Hide menu</button>
         <a href="https://blpdelivery.github.io/brand/logo">Logo</a>
         <a href="https://blpdelivery.github.io/brand/motto-and-slogan">Motto & Slogan</a>
         <a href="https://blpdelivery.github.io/brand/fonts">Fonts</a>
@@ -52,7 +54,7 @@
       }
 
       function openNav() {
-        document.getElementById("navbar").style.width = 200px;
+        document.getElementById("navbar").style.width = 500px;
       }
     </script>
   </body>
